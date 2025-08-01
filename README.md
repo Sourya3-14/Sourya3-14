@@ -40,11 +40,11 @@ I  have hands-on experience in **Frontend development**,**Integrating ML models 
 
 ## GitHub Streaks
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourya3-14&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourya3-14)](https://git.io/streak-stats)
 
 ## LeetCode stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SOURYA_ADHIKARY?ext=heatmap&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SOURYA_ADHIKARY?theme=light&font=Cantata%20One&ext=activity)
 
 ## Connect With Me
 
