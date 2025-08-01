@@ -44,7 +44,7 @@ I  have hands-on experience in **Frontend development**,**Integrating ML models 
 
 ## LeetCode stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SOURYA_ADHIKARY?theme=light&font=Cantata%20One&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SOURYA_ADHIKARY?theme=light&font=Oxygen)
 
 ## Connect With Me
 
