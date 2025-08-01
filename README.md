@@ -26,10 +26,11 @@ I  have hands-on experience in **Frontend development**,**Integrating ML models 
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTes_epoofee3mqzNLNkLe1bjvV8g1YQ3ioXv_mj7_qfFjuyRNPE0xO2rk4gwhxNpPzzHA&usqp=CAU" alt="Fusion360"  width="30 height ="30"/>
 </p>
 
+<!--
 ## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sourya3-14&theme=light&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 
 ## GitHub Stats
 
