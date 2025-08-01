@@ -1,63 +1,51 @@
-# 👋 Hi, I'm Sourya Adhikary
+# Hi, I'm Sourya Adhikary
 
-I'm a passionate and curious in **Machine Learning & Blockchain Technologi**, and enthusiastic problem solver.
+I'm a passionate and curious in **Machine Learning ,Robotics & Blockchain Technology**, and enthusiastic problem solver.
 
-I  have hands-on experience in **full-stack development**, and I love connecting ML models with user-friendly interfaces using tools like **Streamlit** and backend technologies like **FastAPI** and **MongoDB**.
----
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=giriraj-roy-7723&label=Profile%20views)
+I  have hands-on experience in **Frontend development**,**Integrating ML models in IOT projects**,**Creating SmartContracts**
+<br/>
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Sourya3-14&label=Profile%20views)
 
----
-## 🧠 Skillset & Tools
+## Skillset & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+	<img src="https://cdn.simpleicons.org/cplusplus/00599C?logoColor=white" alt="C++" width="30" height="30"/>
+	<img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="40" height="40"/>
+	<img src="https://cdn.simpleicons.org/python/3776AB?logoColor=white" alt="Python" width="30" height="30"/>
+	<img src="https://cdn.simpleicons.org/html5/E34F26?logoColor=white" alt="HTML5" width="30" height="30"/>
+	<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS3" width="30" height="30"/>
+	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Javascript" width="30" height="30"/>
+	<img src="https://cdn.simpleicons.org/react/61DAFB?logoColor=black" alt="React" width="30" height="30"/>
+	<img src="https://cdn.simpleicons.org/solidity/363636" alt="Solidity" alt="Solidity" width="30" height="30"/>
+	<img src="https://github.com/user-attachments/assets/7e74be37-85b0-463b-9696-8cce1fb5ec10" alt="Web3" width="30" height="30"/>
+	<img src="https://repository-images.githubusercontent.com/111455867/9c7f5a80-65c7-11e9-85cf-2f1eb28e2c89" alt="ChainLink" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" alt="git" width="30 height ="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="30 height ="30"/>
+	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30 height ="30"/>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTes_epoofee3mqzNLNkLe1bjvV8g1YQ3ioXv_mj7_qfFjuyRNPE0xO2rk4gwhxNpPzzHA&usqp=CAU" alt="Fusion360"  width="30 height ="30"/>
 </p>
 
----
-## 🚀 What I'm Working On
+## GitHub Trophies
 
-- 🤖 **AI Agents** that auto-apply to 200+ jobs from platforms like Internshala using LangGraph, Gemini, Playwright, FAISS, etc.
-- 🧠 **Retrieval-Augmented Generation (RAG) systems** for generating Bengali MCQs for competitive exams.
-- 🏥 **Health AI** models for disease prediction from symptoms (e.g., decision trees for diabetes, heart disease, and more).
-- 🧪 Smart question generators and multilingual semantic search using **LaBSE**, **FAISS**, and **LLMs**.
-- 🌐 Building full-stack AI apps using **Streamlit**, **FastAPI**, and **MongoDB**, including clean UIs and deployment-ready code.
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sourya3-14&theme=light&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sourya3-14&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourya3-14&show_icons=true&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourya3-14&layout=compact&theme=light)
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giriraj-roy-7723&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giriraj-roy-7723&layout=compact&theme=radical)
+## GitHub Streaks
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sourya3-14&theme=radical)](https://git.io/streak-stats)
 
-## 🔥 GitHub Streaks
+## LeetCode stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giriraj-roy-7723&theme=radical)](https://git.io/streak-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/SOURYA_ADHIKARY?ext=heatmap&theme=dark)
 
----
+## Connect With Me
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/giriraj-roy-804a49280/)
-- 💬 Always open to collaborations, open-source contributions, and project ideas
+- [LinkedIn](https://www.linkedin.com/in/sourya-adhikary-b8943628b/)
+- Always open to collaborations, open-source contributions, and project ideas
