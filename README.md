@@ -20,10 +20,12 @@ I  have hands-on experience in **Frontend development**,**Integrating ML models 
 	<img src="https://cdn.simpleicons.org/solidity/363636" alt="Solidity" alt="Solidity" width="30" height="30"/>
 	<img src="https://github.com/user-attachments/assets/7e74be37-85b0-463b-9696-8cce1fb5ec10" alt="Web3" width="30" height="30"/>
 	<img src="https://repository-images.githubusercontent.com/111455867/9c7f5a80-65c7-11e9-85cf-2f1eb28e2c89" alt="ChainLink" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" alt="git" width="30 height ="30"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="30 height ="30"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs  width="30 height ="30"/>
+  	<img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" alt="git" width="30 height ="30"/>
+  	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="30 height ="30"/>
 	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30 height ="30"/>
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTes_epoofee3mqzNLNkLe1bjvV8g1YQ3ioXv_mj7_qfFjuyRNPE0xO2rk4gwhxNpPzzHA&usqp=CAU" alt="Fusion360"  width="30 height ="30"/>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTes_epoofee3mqzNLNkLe1bjvV8g1YQ3ioXv_mj7_qfFjuyRNPE0xO2rk4gwhxNpPzzHA&usqp=CAU" alt="Fusion360"  width="40 height ="40"/>
+	
 </p>
 
 
