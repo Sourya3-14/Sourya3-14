@@ -27,7 +27,7 @@ I  have hands-on experience in **FullStack development**,**Integrating ML models
   	<img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" alt="git" width="30" height ="30"/>
   	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="30" height ="30"/>
 	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height ="30"/>
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTes_epoofee3mqzNLNkLe1bjvV8g1YQ3ioXv_mj7_qfFjuyRNPE0xO2rk4gwhxNpPzzHA&usqp=CAU" alt="Fusion360"  width="40" height ="40"/>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTes_epoofee3mqzNLNkLe1bjvV8g1YQ3ioXv_mj7_qfFjuyRNPE0xO2rk4gwhxNpPzzHA&usqp=CAU" alt="Fusion360"  width="30" height ="30"/>
 	
 </p>
 
