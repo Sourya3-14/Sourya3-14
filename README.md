@@ -39,8 +39,8 @@ I  have hands-on experience in **FullStack development**,**Integrating ML models
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourya3-14&show_icons=true&theme=light)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourya3-14&layout=compact&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sourya3-14&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourya3-14&layout=compact&theme=dark)
 
 
 ## GitHub Streaks
