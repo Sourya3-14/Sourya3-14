@@ -9,28 +9,27 @@ I  have hands-on experience in **FullStack development**,**Integrating ML models
 
 ## Skillset & Tools
 
-<p align="left">
-	<img src="https://cdn.simpleicons.org/cplusplus/00599C?logoColor=white" alt="C++" width="30" height="30"/>
-	<img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="40" height="40"/>
-	<img src="https://cdn.simpleicons.org/python/3776AB?logoColor=white" alt="Python" width="30" height="30"/>
-	<img src="https://cdn.simpleicons.org/html5/E34F26?logoColor=white" alt="HTML5" width="30" height="30"/>
-	<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS3" width="30" height="30"/>
-	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Javascript" width="30" height="30"/>
-	<img src="https://cdn.simpleicons.org/react/61DAFB?logoColor=black" alt="React" width="30" height="30"/>
-	<img src="https://cdn.simpleicons.org/solidity/363636" alt="Solidity" alt="Solidity" width="30" height="30"/>
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4i1wWF516fnkizp1WSDG5rnG8GfkQAVoVQ&s" alt="Hardhat" width="40" height="40"/>
-	<img src="https://github.com/user-attachments/assets/7e74be37-85b0-463b-9696-8cce1fb5ec10" alt="Web3" width="30" height="30"/>
-	<img src="https://repository-images.githubusercontent.com/111455867/9c7f5a80-65c7-11e9-85cf-2f1eb28e2c89" alt="ChainLink" width="40" height="40"/>
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="NodeJs"  width="50 height ="50"/>
-	<img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB"  width="40 height ="40"/>
-	<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Sql"  width="50" height ="50"/>
-  	<img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" alt="git" width="30" height ="30"/>
-  	<img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="github" width="30" height ="30"/>
-	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height ="30"/>
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTes_epoofee3mqzNLNkLe1bjvV8g1YQ3ioXv_mj7_qfFjuyRNPE0xO2rk4gwhxNpPzzHA&usqp=CAU" alt="Fusion360"  width="30" height ="30"/>
-	
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion360-FF6C37?style=for-the-badge)
 
 ## GitHub Trophies
 
